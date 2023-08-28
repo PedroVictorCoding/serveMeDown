@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>index</title>
+  <meta name="GENERATOR" content="github.com/gomarkdown/markdown markdown processor for Go">
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="/assets/global.css">
+</head>
+<body>
+
+<nav>
+
+<ul>
+<li><a href="#this-is-your-home-page">this is your home page</a></li>
+</ul>
+
+</nav>
+
+<h1 id="this-is-your-home-page">this is your home page</h1>
+
+</body>
+</html>
